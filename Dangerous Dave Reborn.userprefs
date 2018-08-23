@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TransitionControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MapGenerator.cs" Line="44" Column="36" />
+      <File FileName="Assets/Scripts/Editor/_editorMapGenerator.cs" Line="23" Column="25" />
+      <File FileName="Assets/Scripts/MapItem.cs" Line="41" Column="59" />
+      <File FileName="Assets/Scripts/Editor/_editorMapItem.cs" Line="12" Column="26" />
+      <File FileName="Assets/Scripts/DaveControl.cs" Line="68" Column="17" />
+      <File FileName="Assets/Scripts/HUDControl.cs" Line="48" Column="28" />
+      <File FileName="Assets/Scripts/TransitionControl.cs" Line="22" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
